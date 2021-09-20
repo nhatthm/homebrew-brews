@@ -1,5 +1,3 @@
-# Nhatthm Local
-
 ## How do I install these formulae?
 
 `brew install nhatthm/local/<formula>`

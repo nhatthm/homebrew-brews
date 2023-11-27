@@ -1,8 +1,8 @@
 ## How do I install these formulae?
 
-`brew install nhatthm/local/<formula>`
+`brew install nhatthm/brews/<formula>`
 
-Or `brew tap nhatthm/local` and then `brew install <formula>`.
+Or `brew tap nhatthm/brews` and then `brew install <formula>`.
 
 ## Documentation
 
